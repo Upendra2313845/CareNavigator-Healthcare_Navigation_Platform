@@ -1,4 +1,4 @@
-# Care Navigator — Smart Hospital Finder & Appointment Booking Platform
+# Care Navigator — Healthcare Navigation Platform
 
 <p align="center">
 
