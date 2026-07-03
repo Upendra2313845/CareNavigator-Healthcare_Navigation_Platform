@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Care Navigator — Smart Hospital Finder & Appointment Booking Platform
+=======
+# Care Navigator — Healthcare Navigation Platform
+>>>>>>> db591e50dc15d8ae802359084c2530ada6043f61
 
 <p align="center">
 
