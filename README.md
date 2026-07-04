@@ -1,8 +1,6 @@
 <<<<<<< HEAD
-# Care Navigator — Smart Hospital Finder & Appointment Booking Platform
-=======
+
 # Care Navigator — Healthcare Navigation Platform
->>>>>>> db591e50dc15d8ae802359084c2530ada6043f61
 
 <p align="center">
 
@@ -190,16 +188,7 @@ index.html
 
 ---
 
-# Live Demo:
 
-The project is currently not hosted online.
-
-You can run the project locally by following the installation steps above.
-
-A live demo will be added soon.
-
-
----
 
 # About the Developer:
 
